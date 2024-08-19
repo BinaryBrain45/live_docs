@@ -96,4 +96,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Thanks to the developers of Next.js, TypeScript, Tailwind CSS, Liveblocks, Clerk, and Netlify for creating such awesome tools.
-- Special thanks to the original tutorial for guiding the development of this project.
